@@ -21,7 +21,7 @@ Update the wiring assignments in the script if your wiring differs.
 
 ## Installation
 1. Flash Micropython onto your board if you haven't already
-2. Copy `TCS34725_Color sensor.py` onto the board. (e.g. via `mpremote` or Thonny IDE)
+2. Copy `TCS34725_Module.py` onto the board. (e.g. via `mpremote` or Thonny IDE)
 3. Wire the TCS34725 sensor to the pins listed above
 4. Run the script:
    ```bash
