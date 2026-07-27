@@ -15,6 +15,9 @@ Off/Dark).
 - Adafruit TCS34725 (Or compatible) color sensor breakout
 
 ### Wiring
+
+![TCS34725 to Microcontroller Wiring Diagram](images/wiring_diagram.png)
+
 |   Board           | I2C Bus | SDA | SCL | LED | 3.3V | GND |
 | Raspberry Pi Pico |   0     | GP4 | GP5 | GP2 | 3.3V | GND |
 Update the wiring assignments in the script if your wiring differs.
