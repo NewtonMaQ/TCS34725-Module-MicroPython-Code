@@ -16,7 +16,7 @@ Off/Dark).
 
 ### Wiring
 
-![TCS34725 to Microcontroller Wiring Diagram](images/wiring_diagram.png)
+![TCS34725 to Microcontroller Wiring Diagram](images/wiring.jpg)
 
 |   Board           | I2C Bus | SDA | SCL | LED | 3.3V | GND |
 | Raspberry Pi Pico |   0     | GP4 | GP5 | GP2 | 3.3V | GND |
